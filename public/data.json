@@ -1,0 +1,56 @@
+[
+    {
+        "recipe_image": "https://i.ibb.co.com/bQQq5wt/spicy-Chiken.jpg",
+        "recipe_id": 1,
+        "recipe_name": "Spicy Chicken Stir-fry",
+        "short_description": "A quick and spicy chicken stir-fry with vegetables aqnd so on",
+        "ingredients": ["550 g chicken", "120 ml soy sauce", "1 tbsp chili sauce", "200 g bell peppers", "100 g onion"],
+        "preparing_time": "30",
+        "calories": "320"
+    },
+    {
+        "recipe_image": "https://i.ibb.co.com/Sss8cX6/mashroom.jpg",
+        "recipe_id": 2,
+        "recipe_name": "Rich and creamy pasta",
+        "short_description": "Rich and creamy pasta with sautéed mushrooms and Parmesan.",
+        "ingredients": ["400 g pasta", "200 g mushroom", "100 ml heavy cream", "1 tbsp olive oil", "50 g Parmesan cheese"],
+        "preparing_time": "25",
+        "calories": "450 "
+    },
+    {
+        "recipe_image": "https://i.ibb.co.com/xLPsZtf/salad.jpg",
+        "recipe_id": 3,
+        "recipe_name": "Basil Pesto Pasta",
+        "short_description": "Classic Italian pasta with fresh basil pesto sauce.",
+        "ingredients": ["300 g pasta", "100 g basil leaves", "50 g pine nuts", "100 ml olive oil", "50 g Parmesan cheese"],
+        "preparing_time": "20",
+        "calories": "380"
+    },
+    {
+        "recipe_image": "https://i.ibb.co.com/9tw1R6J/pasta.jpg",
+        "recipe_id": 4,
+        "recipe_name": "Avocado Salad",
+        "short_description": "A healthy avocado salad with mixed greens and lime dressing.",
+        "ingredients": ["2 avocados", "200 g mixed greens", "50 g cherry tomatoes", "1 lime", "1 tbsp olive oil"],
+        "preparing_time": "15",
+        "calories": "250"
+    },
+    {
+        "recipe_image": "https://i.ibb.co.com/SytZ5ng/vegitable-sald.jpg",
+        "recipe_id": 5,
+        "recipe_name": "vegitable_salad",
+        "short_description": "A colorful vegetable stir-fry with a light soy sauce glaze.",
+        "ingredients": ["200 g broccoli", "150 g carrots", "100 g bell peppers", "50 g snow peas", "1 tbsp soy sauce"],
+        "preparing_time": "20",
+        "calories": "200"
+    },
+    {
+        "recipe_image": "https://i.ibb.co.com/hXBchyC/butter.jpg",
+        "recipe_id": 6,
+        "recipe_name": "Garlic Butter Shrimp",
+        "short_description": "Juicy shrimp sautéed in garlic butter sauce with a hint of lemon.",
+        "ingredients": ["400 g shrimp", "50 g butter", "3 cloves garlic", "1 lemon", "1 tbsp parsley"],
+        "preparing_time": "15",
+        "calories": "300"
+    }
+]
