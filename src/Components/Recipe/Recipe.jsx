@@ -4,7 +4,7 @@ const Recipe = ({recipe , itemSelected}) => {
     const {recipe_image,recipe_id,recipe_name,short_description,ingredients,preparing_time,calories} = recipe;
   return (
     <div>
-        <div className="card bg-base-100 shadow-xl border-2">
+        <div className="card bg-base-100 shadow-xl border-2 flex flex-col flex-grow">
   <div className="h-60 rounded-2xl">
     <img
       src={recipe_image}
